@@ -1,0 +1,6 @@
+{
+  "name": "WonderKids World – Ultimate Preschool Learning App",
+  "description": "A magical, interactive preschool learning adventure featuring ABCs, Numbers, Colors, Shapes, Animals, Creative Play, and Mini-Games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
